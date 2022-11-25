@@ -1,13 +1,7 @@
-# Primeiro-projeto
-
-
-
-
-
 <h1 align="center"> Corrigindo Bugs.  </h1>
 
 <p align="center">
-Projeto 1 realizado no STAGE 1 do curso Rocketseat/Ensino de tecnologias WEB/Turma 6.
+Projeto 1 realizado no curso Rocketseat/Ensino de tecnologias WEB/Turma 6.
 </p>
 
 <p align="center">
